@@ -1,5 +1,7 @@
 # UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation
 
+**Paper Link**: [arXiv](https://arxiv.org/abs/2508.05399)
+
 ## Abstract 
 <img width="1691" height="571" alt="teaser" src="https://github.com/user-attachments/assets/cba188b3-f405-4eac-a045-4c1b5788b71c" />
 
@@ -17,3 +19,17 @@ We are actively working on preparing the codebase for public release. The code, 
 Stay tuned!
 
 *For questions or collaboration inquiries, please contact us or open an issue.*
+
+
+## 📖 Citation
+
+If you find this useful, please cite:
+
+```bibtex
+@article{kang2025uncage,
+  title={UNCAGE: Contrastive Attention Guidance for Masked Generative Transformers in Text-to-Image Generation},
+  author={Kang, Wonjun and Ahn, Byeongkeun and Lee, Minjae and Galim, Kevin and Oh, Seunghyuk and Koo, Hyung Il and Cho, Nam Ik},
+  journal={arXiv preprint arXiv:2508.05399},
+  year={2025}
+}
+```
